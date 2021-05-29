@@ -151,7 +151,7 @@ class CityController extends Controller
             } else {
                 $response  = [
                    "status"  => false,
-                    "message" => "Delete Province failed...",
+                    "message" => "Delete City failed...",
                 ];
             }
     
